@@ -1,0 +1,46 @@
+article {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+body {
+    background-color: #f4f4f4;
+    color: #333;
+}
+section {
+    margin-bottom: 20px;
+}
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 0;
+}
+h2, h3 {
+    font-size: 1.5em;
+    color: #2e0202;
+    margin-top: 0;
+}
+ 
+p {
+    line-height: 1.6;
+}
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+footer {
+    text-align: center;
+    font-size: 0.9em;
+    color: #2e0202;
+    margin-top: 40px;
+}
+a {
+    color: #000000;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    color: #570303d4;
+    
+}
+ 
