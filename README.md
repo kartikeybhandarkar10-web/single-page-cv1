@@ -18,8 +18,7 @@ This project demonstrates semantic HTML structure, SEO optimization, Open Graph 
 
 ## 🌐 Live Demo
 View the hosted version here:  
-👉 [https://kartikey.github.io/single-page-cv1/](https://kartikey.github.io/single-page-cv1/)
-
+👉 (https://github.com/kartikeybhandarkar10-web/single-page-cv1)
 ---
 
  
